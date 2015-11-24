@@ -1,0 +1,12 @@
+upload_max_filesize = 100M
+
+post_max_size = 105M
+
+max_execution_time = 500
+
+max_input_name = 500
+
+memory_limit = 128M
+extension = phar.so
+
+suhosin.executor.include.whitelist = phar
