@@ -44,4 +44,8 @@
 <?php echo $output; ?>
 </pre>
 </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> 7e888f280701aa93a7786160eac6f4dfc519f57f
